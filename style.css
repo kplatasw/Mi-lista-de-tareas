@@ -1,0 +1,29 @@
+body
+{
+    background-color: rgb(253, 112, 190);
+    color:rgb(201, 10, 115);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1
+{
+    color: rgb(rgb(131, 39, 184), rgb(0, 128, 85), rgb(218, 144, 95))
+}
+
+h2
+{
+    color: rgb(rgb(245, 245, 105), rgb(234, 255, 113), rgb(211, 33, 33));
+
+}
+
+button
+{
+    background-color: rgb(250, 249, 249);
+    color:rgb(0, 0, 0);
+    padding: 8px;
+    border: none;
+}
+imput
+{
+    padding: 8px;
+}
